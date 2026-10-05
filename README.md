@@ -6,9 +6,13 @@ for os labs
 выводит её в файл. Числа имеют тип float. Количество чисел может быть произвольным.
 
 компиляция:
+
 gcc client.c -o parent
+
 gcc server.c -o sss
+
 ./parent output.txt
 
 далее вводить в строку числа тип float
+
 пример: 1.2 1.4 1.6 1.8 2.5
